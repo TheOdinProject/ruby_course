@@ -1,5 +1,7 @@
 ### Introduction
-A brief summary about what this lesson is about and why the topics or concepts it covers are important.
+ So far you wrote programs executed line by line, in methods, as you learned them. It's called procedural programming. Now you think it's easier to understand how to make a program like that, not thinking about how your methods will be organized further, but later you will build real programs and applications. If your code will be organized that way, a single mistake, a typo, can make your build fall apart. Object-oriented approach propose you to organize your code into structures named for chosen object called CLASSES. 
+ Since the time you will know object-oriented model, you will find it easier to say that class "YourClass" implements these and that actions in methods , than to explain how that actions are run by raw methods. You will see that classes' structure and behaviour is alike to how real objects' behavior is described, inherited and working in real life. 
+As we said, as you will have code organized in classes, classes' methods and instances, you will be able to fix and change your code easily up to your needs in future. In classes your code is serving and reused without repetitions. 
 
 ### Learning Outcomes
 *Look through these now and then use them to test yourself after doing the assignment*
