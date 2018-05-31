@@ -132,6 +132,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/ruby_course
 * [Oliver Curting's solution - with one-line dfs_rec](https://github.com/Curting/searching_binary_trees/blob/master/searching_binary_trees.rb)
 * [HSaad's solution](https://github.com/HSaad/data-structure-algorithms/blob/master/binary_tree.rb)
 * [Punnadittr's solution](https://github.com/punnadittr/binary_tree/blob/master/binary_tree.rb)
+* [Paramagicdev's solution](https://github.com/ParamagicDev/binary_search_tree/)
 
 ### Project 2: Knight's Travails
 
