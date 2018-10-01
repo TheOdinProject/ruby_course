@@ -380,6 +380,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/ruby_course
 * [Joel Infeld's solution](https://github.com/joelinfeld/caesar_cipher/blob/master/caesar_cipher.rb)
 * [codyMalcolm's solution](https://github.com/codyMalcolm/odin-building-blocks/blob/master/ruby_caesar.rb)
 * [Emil Dimitrov's solution](https://github.com/imemdm/ruby-building-blocks/blob/master/caesar_cipher.rb)
+* [Felipe López's solution](https://github.com/feload/OdinProject/blob/master/ruby_course/building_blocks/caesar_cipher.rb)
 
 
 ### Project 2: Stock Picker
